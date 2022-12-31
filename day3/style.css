@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;1,400&family=Sevillana&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;1,400&family=Sevillana&family=Seymour+One&display=swap');
+
+body{
+          background-color: #047edb;
+}
+
+div{
+          background-color: #f55f96;
+}
+
+h1{
+          color: aliceblue;
+          font-size: 50px;
+          font-family: 'Sevillana', cursive;
+}
+
+h2{
+          color: burlywood;
+          font-size: 30px;
+          font-family: 'Seymour One', sans-serif;
+}
+
+h3{
+          color: yellow;
+          font-size: 30px;
+}
+
+h4{
+          color: darkblue;
+}
+
+h5{
+          color: darkgreen;
+}
+
+h6{
+          color: silver;
+}
+
+span{
+          letter-spacing: 20px;
+          color: aliceblue;
+}
+
+p{
+          font-size: 25px;
+          line-height: 50px;
+          color: azure;
+}
