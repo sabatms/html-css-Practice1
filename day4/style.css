@@ -1,0 +1,39 @@
+.flowers {
+          background-color: black;
+          color: aliceblue;
+          font-family: 'Courier New', Courier, monospace;
+}
+
+#rose{
+          background-color: pink;
+          color: blue;
+}
+
+#header-content{
+          color: crimson;
+}
+
+#header-content h1{
+          color: orangered;
+          background-color: aliceblue;
+}
+#header-content h2{
+          color:purple;
+          background-color:aliceblue;
+          font-size: 15px;
+}
+
+#header-text h1{
+          color: red;
+          letter-spacing: 10px;
+}
+
+#header-text h2{
+          background-color: coral;
+          color: yellow;
+}
+
+#header-content h3:hover{
+          color: darkcyan;
+          letter-spacing: 5px;
+}
