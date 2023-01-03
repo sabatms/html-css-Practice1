@@ -1,0 +1,13 @@
+body{
+          background-color: violet;
+}
+#header-content{
+          position:relative;
+          text-align: center;
+          color: orangered;
+          background-color: black;
+          position:relative;
+          width: 70%;
+          height: 250px;
+          left: 15%;
+}
