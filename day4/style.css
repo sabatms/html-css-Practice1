@@ -29,11 +29,33 @@
 }
 
 #header-text h2{
-          background-color: coral;
+          background-color: black;
           color: yellow;
 }
 
 #header-content h3:hover{
           color: darkcyan;
           letter-spacing: 5px;
+}
+
+#one, #two{
+          background-color: tomato;
+}
+
+div3>span{
+          color: black;
+          background-color: rgb(0, 255, 128);
+}
+
+p+p{
+          color: blueviolet;
+}
+
+/*#text+p{
+          color:red;
+}
+*/
+
+#text~p{
+          color: teal;
 }
