@@ -1,0 +1,52 @@
+body{
+          background-color: rgb(225, 66, 130);
+}
+
+#text-header{
+          color: blanchedalmond;
+}
+
+#header-content1{
+          background-color: rgb(20, 73, 179);
+          text-align: center;
+          color: white;
+          position: relative;
+          width: 70%;
+          height: 250px;
+          left: 15%;
+          border: 6px solid black;
+          border-radius: 15px;
+}
+
+#sec-text-header{
+          color: rgb(234, 54, 54);
+          text-align: center;
+}
+
+#third-text-header{
+        color: sandybrown;
+        text-align: center;
+}
+
+#header-content2{
+          background-color: rgb(18, 12, 136);
+          text-align: center;
+          color: white;
+          position: relative;
+          width: 70%;
+          height: 250px;
+          left: 15%;
+          border: 2px dashed rgb(72, 255, 0);
+          border-radius: 50px 50px 50px 50px;
+}
+
+#header-content3{
+          background-color: rgb(63, 55, 210);
+          text-align: center;
+          color: white;
+          position: relative;
+          width: 70%;
+          height: 250px;
+          left: 15%;
+          border: 4px groove whitesmoke;
+}
