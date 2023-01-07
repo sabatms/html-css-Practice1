@@ -1,0 +1,31 @@
+body{
+          background-color: rgb(0, 0, 0);
+}
+
+#container1{
+       position: absolute;
+       left: 0;
+       top: 0;
+       width: 100%;
+       min-height: 100%;
+       display: grid;
+       grid-template-columns: repeat(5, 1fr);
+       grid-template-rows: repeat(2, 1fr);
+       /*grid-template-columns: 300px 300px 300px;
+       grid-template-rows:300px 300px 300px;*/
+       justify-content: center;
+}
+
+#item1{
+   position: relative;
+   width: 250px;
+   height: 250px;
+   background-color: rgb(174, 6, 95);
+   text-align: center;
+   border: 2px dotted rgb(255, 255, 255);
+}
+
+#item1 span{
+   color: rgb(247, 248, 255); 
+   font-size: 25px;
+}
