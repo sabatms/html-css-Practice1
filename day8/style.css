@@ -1,0 +1,47 @@
+body{
+          background-color: seagreen;
+}
+
+#container1{
+       position: absolute;
+       left: 0;
+       top: 0;
+       width: 100%;
+       min-height: 100%;
+       display: flex;
+       justify-content: center;/* (left to right)*/
+       /*justify-content: start;*/
+       /*justify-content: end;*/
+       /*justify-content: space-around;*/
+       /*justify-content: space-between;*/
+       /*justify-content: space-evenly;*/
+
+       place-items: center;/*(top to bottom)*/
+      /* place-items: start;
+       place-items: end;*/
+
+       flex-wrap: wrap;
+       /*flex-wrap: nowrap;*/
+       /*flex-wrap: wrap-reverse;*/
+
+       /*flex-direction: column;*/
+       /*flex-direction: column-reverse;*/
+       /*flex-direction: row;*/
+       /*flex-direction: row-reverse;*/
+
+       gap: 80px;/*(قرار می دهد item یک فضایی بین )*/
+}
+
+#item1{
+   position: relative;
+   width: 250px;
+   height: 250px;
+   background-color: rgb(255, 240, 240);
+   text-align: center;
+   border: 2px dashed black;
+}
+
+#item1 span{
+   color: rgb(0, 8, 255); 
+   font-size: 25px;
+}
