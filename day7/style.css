@@ -14,17 +14,19 @@ body{
           justify-content: space-evenly;*/
           place-items: center;
           flex-wrap: wrap;
-         /* flex-wrap: nowrap;
+          /*flex-wrap: nowrap;
           flex-wrap: wrap-reverse;*/
+
+
 }
 
 #item{
           position: relative;
           width: 200px;
           height: 200px;
-          background-color: rgb(102, 110, 118);
+          background-color: rgb(239, 242, 244);
           text-align: center;
-          color: greenyellow;
+          color: rgb(246, 30, 6);
           font-size: x-large;
-          border: 1px solid rgb(85, 19, 3);
+          border: 1px solid rgb(52, 1, 255);
 }
